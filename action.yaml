@@ -1,0 +1,5 @@
+train: E:\K-ompanion\train.txt
+val: E:\K-ompanion\val.txt
+
+nc: 4
+names: ['BODYLOWER', 'FEETUP', 'FOOTUP', 'SIT']

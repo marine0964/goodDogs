@@ -1,0 +1,9 @@
+python keras_retinanet/bin/train.py --gpu=0 --epochs=10 --steps=1000 --workers=0 csv E:\K-ompanion\csv\action.csv E:\K-ompanion\csv\action_mapping.csv
+
+class x_center y_center width heigh
+
+
+bodylower
+feetup
+footup
+sit
