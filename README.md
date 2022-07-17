@@ -2,7 +2,7 @@ Team members: 신홍철, 양희태, 황수인
 
 ## [TRAINING Notebook](https://colab.research.google.com/drive/1ylJkBkTyJKYme370JfXaRW_AW5xW82rz?usp=sharing) - Google Colab
 
-## [Training Log and Result](https://wandb.ai/curieuxjy/YOLOv5?workspace=user-curieuxjy) - WandB
+## [Training Log and Result](@wandb log) - WandB
 
 |<img src="assets/hdware1.jpg" width="300"/>|<img src="assets/hdware2.jpg" width="300"/>|
 |-|-|
